@@ -1,0 +1,23 @@
+{
+  "name": "core-jest-utils-unit-tests",
+  "version": "1.0.0",
+  "description": "Writing unit tests for utility functions using Jest!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atafs/core-jest-utils-unit-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atafs/core-jest-utils-unit-tests/issues"
+  },
+  "homepage": "https://github.com/atafs/core-jest-utils-unit-tests#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
